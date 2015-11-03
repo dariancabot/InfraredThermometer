@@ -21,4 +21,4 @@ You'll need to download and include the following libraries:
 * [Adafruit_SSD1306.h](https://github.com/adafruit/Adafruit_SSD1306)
 * [IRTemp.h](https://github.com/freetronics/IRTemp)
 
-[Visit my blog](http://dariancabot.com/category/projects/infrared-thermometer/) for more information, photos, and wiring diagrams.
+Visit [my blog](http://dariancabot.com/category/projects/infrared-thermometer/) for more information, photos, and wiring diagrams.
